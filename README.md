@@ -27,13 +27,13 @@ This project is a clone of the DALL-E (Drew Amoroso and Aditya Ramesh, OpenAI) m
 1. Clone the repository to your local machine:
 
     ```
-    git clone https://github.com/your-username/dalle-clone.git
+   https://github.com/vsvishalsharma/DALLE-Clone.git
     ```
 
 2. Navigate to the project directory:
 
     ```
-    cd dalle-clone
+    cd ai-img
     ```
 
 3. Install dependencies for both the client and server:
@@ -52,7 +52,7 @@ This project is a clone of the DALL-E (Drew Amoroso and Aditya Ramesh, OpenAI) m
     npm run dev
     ```
 
-6. Access the application in your web browser at `http://localhost:3000`.
+6. Access the application in your web browser at `http://localhost:8000`.
 
 ## Contributing
 
